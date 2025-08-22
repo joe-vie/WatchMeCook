@@ -12,5 +12,3 @@ Here's an image of the game!
 <img width="1470" height="956" alt="Screenshot 2025-08-13 at 11 30 27 PM" src="https://github.com/user-attachments/assets/f802134f-f6f6-4045-b6fe-ec6b164f2641" />
 
 Thanks for visiting! See you again at Daydream!
-
-

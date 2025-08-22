@@ -271,6 +271,7 @@ _data = {
 }
 
 [node name="Game" type="Node2D"]
+position = Vector2(-6, -101)
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = SubResource("TileSet_qcoji")
@@ -303,10 +304,10 @@ shape = SubResource("WorldBoundaryShape2D_lbhrr")
 [node name="Platforms" type="Node" parent="."]
 
 [node name="Platform" parent="Platforms" instance=ExtResource("3_k7sf4")]
-position = Vector2(33, 4)
+position = Vector2(27, -97)
 
 [node name="Platform2" parent="Platforms" instance=ExtResource("3_k7sf4")]
-position = Vector2(45, -30)
+position = Vector2(39, -131)
 
 [node name="Platform3" parent="Platforms" instance=ExtResource("3_k7sf4")]
 position = Vector2(415, -91)
@@ -326,7 +327,7 @@ libraries = {
 }
 
 [node name="Platform5" parent="Platforms" instance=ExtResource("3_k7sf4")]
-position = Vector2(288, -57)
+position = Vector2(282, -158)
 
 [node name="Slime" parent="." instance=ExtResource("5_iywne")]
 visibility_layer = 2
