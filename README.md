@@ -11,7 +11,8 @@ P.S. 3: A lot of changes were made such as including the background, adding a ne
 
 Here's an image of the game!
 
-<img width="763" height="378" alt="Screenshot 2025-08-21 at 11 15 19 PM" src="https://github.com/user-attachments/assets/1a124bd5-ed14-4c4b-904c-91bda1cad61d" />
+<img width="1470" height="956" alt="Screenshot 2025-08-21 at 11 25 08 PM" src="https://github.com/user-attachments/assets/2b13dcc9-c6f3-4fa6-aba2-5c424d900a3d" />
+
 
 Thanks for visiting! See you again at Daydream!
 
